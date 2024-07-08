@@ -1,0 +1,15 @@
+p{
+    color: blue;
+}
+
+a{
+    color: brown;
+    text-decoration: none;
+}
+th{
+    color: green;
+}
+table,th,td{
+    border: 1px solid;
+    border-collapse: collapse;
+}
